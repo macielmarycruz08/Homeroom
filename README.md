@@ -31,10 +31,9 @@ Backend:
 
 # Project Structure
 sample/
-├── client/
-│ └── homeroom/  # React frontend
-├── server/  # Express backend
-└── README.md
+- client/
+  - homeroom/  # React frontend
+- server/  # Express backend
 
 
 # How to run:
