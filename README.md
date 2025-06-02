@@ -12,7 +12,6 @@ Built using React for the frontend, Node.js/Express for the backend, and MySQL f
 - ❌ Delete students  
 - 🔗 Connected frontend + backend with live data
 
----
 
 ## 🧱 Tech Stack
 
